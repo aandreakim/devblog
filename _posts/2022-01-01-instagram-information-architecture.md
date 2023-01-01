@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instagram: A breakdown"
-date:   2022-01-01 18:28:37 +0900
+date:   2023-01-01 18:28:37 +0900
 categories: research
 ---
 
