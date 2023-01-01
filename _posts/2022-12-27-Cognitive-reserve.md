@@ -13,6 +13,8 @@ Cognitive reserve appears to play a pivotal part in preventing or developing Alz
 
 ## What is cognitive reserve?
 
+
+
 ## What is brain reserve?
 
 ## What role do they play on Alzheimer's Disease?
