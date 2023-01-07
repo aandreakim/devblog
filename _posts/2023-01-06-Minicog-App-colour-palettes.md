@@ -10,26 +10,31 @@ categories: development
 In the previous blog, we identified the two main UX problems in Dementia Check, the government-produced dementia diagnosis mobile app. One of these problems was the app's colour combination and I suggested a change in this. Thus, this blog will explore the potential colour combinations for an improved diagnosis app. 
 
 --- 
-## Problem 1: Lengthy log-in process 
+## Primary colour
 
-The first step to using almost any mobile app is logging in. Because this is usually to swiftly set up an account and allow you to safely proceed to actually using the app, logging in should frankly be the simplest of the steps. But in Dementia Check, logging in may be one of the most complicated steps to receiving your unconfirmed diagnosis! THe diagram below illustrates the IA breakdown of the log-in phase:
+The primary colour of an app or website is the colour that is used or seen most frequently. It is usually the colour we associate with an app. For example, yellow for Snapchat and red for Youtube. In the new dementia diagnosis, I thought a cream-beige colour would be suitable as it is known to be a calming neutral colour that well-complements the Seafoam colour, which I will introduce next. It is important to implement calming colours as the users may be nervous about their results, and calmness further ensures an accurate assessment of the users' cognition. 
 
-![login](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673054413/Group_187_2_tpuahf.jpg)
-
-When initially creating their accounts, the app requires users to state whether they are adults or minors, which does not appear to be a necessary step unless it affects the user's diagnosis (which it does not). Further, Dementia Check requires users to verify their identities using an external app. Then, it asks the user to set up their account by creating a username and password and entering personal information - seems pretty normal? Wrong. The app then requires the user to re-enter their username and password to finally proceed the dementia diagnosis. Keeping in mind that most of these users will be elderlies or their mid-50s' daughters and sons who suspect dementia, Dementia Check's log-in process appears excessively lengthy and redundant. 
-
-To overcome this issue, the government could replace this current log-in system with a simple one-click log-in process that is linked to a widely used app such as Kakao Talk or Naver. This would reduce the current steps to merely 3 steps. 
+![primary colour](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673060375/Group_194_xpwqeg.jpg) 
 
 ---
-## Problem 2: 
+## Secondary colour
 
-The next problem is the app's User Experience (UX) design - specifically pertaining to the colour combinations used. The app's primary colour is a bright orange, on which any coloured text can be quite difficult to read. The app's main choice of text colour is white. The colour contrast makes the text rather challenging to read, which is exacerbated by the elderly population's tendency to have weak vision. 
+The secondary colour of an app or website is the colour that is displayed second most frequently. For the dementia diagnosis app, I chose Seafoam as the secondary colour as it is a more neutral shade of green that fosters calmness and is widely used to soothe stress. For instance, performers often wait in a room with Seafoam-coloured wallpapers to help calm their nerves. Applying this same idea to users who may fear that they have dementia, Seafoam can help keep users calm.
 
-![home](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673055254/Group_188_pod66q.jpg)
+![secondary colour](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673060376/Group_195_yxkl1d.jpg)
 
 This could definitely be overcome by changing the colour combination of Dementia Check to ones that have been empirically proven to delivery smooth UX and makes text easier to read. Great examples are (black and white) and (grey-blue and white).
 
 ---
-## What's next?
+## Combination comparison
 
-To improve upon these issues and a plethora of other issues with Dementia Check, the next most-urgent step is to create a dementia diagnosis app which is more concise and easier to use, especially catered for those who are older and less familiar with modern technology.
+My colours (left) vs. Dementia Check's colours (right)
+
+![colour comparison](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673060069/Group_192_l5w5zo.jpg)
+
+---
+## Semantic colours
+
+The semantic colours of an app or website are the colours used to indicate a specific outcome. For example, in a game, most people associate red with failure as it would be accompanied by a text such as "GAME OVER". So the semantic colour for failure would be red. In this way, red was used for error messages, orange for warning messages, green for success, and blue for any kind of information. Sticking to the general theme of toned-down pastel colours, I chose relativley dull semantic colours as such:
+
+![semantic colours](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673060377/Group_193_uq0oyj.jpg)
