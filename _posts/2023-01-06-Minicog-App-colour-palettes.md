@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's Wrong with the South Korean Government's Dementia Diagnosis App?"
+title:  "What's Wrong with South Korean Government's Dementia Diagnosis App?"
 date:   2023-01-06 18:28:37 +0900
 categories: research
 ---
