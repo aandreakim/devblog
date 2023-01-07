@@ -23,7 +23,7 @@ When initially creating their accounts, the app requires users to state whether 
 To overcome this issue, the government could replace this current log-in system with a simple one-click log-in process that is linked to a widely used app such as Kakao Talk or Naver. This would reduce the current steps to merely 3 steps. 
 
 ---
-## Problem 2: 
+## Problem 2: Uncomfortable colour combination
 
 The next problem is the app's User Experience (UX) design - specifically pertaining to the colour combinations used. The app's primary colour is a bright orange, on which any coloured text can be quite difficult to read. The app's main choice of text colour is white. The colour contrast makes the text rather challenging to read, which is exacerbated by the elderly population's tendency to have weak vision. 
 

@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "What's Wrong with South Korean Government's Dementia Diagnosis App?"
-date:   2023-01-06 18:28:37 +0900
-categories: research
+title:  "What Colours Are Best For A Dementia Diagnosis App?"
+date:   2023-01-06 10:45:58 +0900
+categories: development
 ---
 
 ## Introduction
 
-치매체크 (translation: Dementia Check) is a dementia diagnosis app produced by the South Korean government. The government maintained that 'Dementia Check' was designed to be "convenient for anyone with a smartphone". However, many users have reported a variety of issues and inconveniences regarding this app. Thus, I have began creating an Information Architecture (IA) flowchart that breaks down the functions of the app to its very basic steps. This blog will explore two problems, which the online user reviews mention most frequently.  
-
-![App overview](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673054070/Group_187_1_fuygeg.jpg)
+In the previous blog, we identified the two main UX problems in Dementia Check, the government-produced dementia diagnosis mobile app. One of these problems was the app's colour combination and I suggested a change in this. Thus, this blog will explore the potential colour combinations for an improved diagnosis app. 
 
 --- 
 ## Problem 1: Lengthy log-in process 
