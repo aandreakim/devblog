@@ -35,6 +35,6 @@ My colours (left) vs. Dementia Check's colours (right)
 ---
 ## Semantic colours
 
-The semantic colours of an app or website are the colours used to indicate a specific outcome. For example, in a game, most people associate red with failure as it would be accompanied by a text such as "GAME OVER". So the semantic colour for failure would be red. In this way, red was used for error messages, orange for warning messages, green for success, and blue for any kind of information. Sticking to the general theme of toned-down pastel colours, I chose relativley dull semantic colours as such:
+The semantic colours of an app or website are the colours used to indicate a specific outcome. For example, in a game, most people associate red with failure as it would be accompanied by a text such as "GAME OVER". So the semantic colour for failure would be red. In this way, red was used for error messages, orange for warning messages, green for success, and blue for any kind of information. Sticking to the general theme of toned-down pastel colours, I chose relativley dull semantic colours such as:
 
 ![semantic colours](https://res.cloudinary.com/dnld9xo3e/image/upload/v1673060377/Group_193_uq0oyj.jpg)
