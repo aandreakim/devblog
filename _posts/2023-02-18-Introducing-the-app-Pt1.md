@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing the New Mini-Cog App: Part I"
-date:   2023-01-13 14:28:21 +0900
+date:   2023-02-08 14:28:21 +0900
 categories: development
 ---
 
