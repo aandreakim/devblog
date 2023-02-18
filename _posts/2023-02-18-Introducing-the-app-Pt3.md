@@ -1,16 +1,22 @@
 ---
 layout: post
 title:  "Introducing the New Mini-Cog App: Part III"
-date:   2023-02-15 14:28:21 +0900
+date:   2023-02-12 14:28:21 +0900
 categories: development
 ---
 
-## Where can I find the Mini-Cog App?
+## How do I use the app?
 
-The Mini-Cog App is available for downloading on the Google Playstore.
+Upon downloading the Mini-Cog App from Google Play Store, you can open the app on your mobile device. When the app is opened, short and concise instructions will appear on your screen. Within a minute, you will begin your screening test right away. After finishing the test, you will receive your score report and suggested next steps.
 
-![playstore icon](https://res.cloudinary.com/dnld9xo3e/image/upload/v1676695631/Group_350_1_ehwbzv.png)
+## Steps overview
 
-## Why is the app only available on Google Playstore?
+![intro](https://res.cloudinary.com/dnld9xo3e/image/upload/v1676697167/Group_351_rsueus.png)
 
-Though we plan to expand accessibility to the Apple App Store too in the future, the Mini-Cog App's initial launch was made available only for android devices because 95% of all elderly mobile phone users in South Korea are android users. Since the app's target users were elderlies in South Korea, we found the Google Playstore to be most suitable market.
+![test 1](https://res.cloudinary.com/dnld9xo3e/image/upload/v1676697167/Group_352_ku0iyd.png)
+
+![test 2](https://res.cloudinary.com/dnld9xo3e/image/upload/v1676697727/Group_352_1_u18hoc.png)
+
+![test 3](https://res.cloudinary.com/dnld9xo3e/image/upload/v1676697728/Group_352_2_cuxlx6.png)
+
+![score report](https://res.cloudinary.com/dnld9xo3e/image/upload/v1676697729/Group_352_3_cuzmxu.png)
